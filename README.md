@@ -10,7 +10,7 @@ Useful facts:
 
 Fun facts:
 
-- ⚡ In the past I was into YouTube and I made a [video](https://www.youtube.com/watch?v=75FxjRJZmis&list=PLK2wVyb-VU2rtNVTmfVzJanTgnLUqEo_V) with 800k likes
+- ⚡ In the past I was into YouTube and I made a [video](https://www.youtube.com/watch?v=75FxjRJZmis&list=PLK2wVyb-VU2rtNVTmfVzJanTgnLUqEo_V) with 800k+ views
 - 🎸 I did music (5 songs with music videos), but it's too cringe to show
 - 🎮 I created [Among Us](https://github.com/NikitaShkaruba/among_us_clone), [Outer Wilds](https://github.com/NikitaShkaruba/outer_wilds_clone) game clones in Unity, and made videos about them
 - 📰 I have some [articles](https://vk.com/@nsh) in Russian about programming
