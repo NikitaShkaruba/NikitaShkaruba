@@ -2,9 +2,9 @@
 
 Useful facts:
 
-- 🖥 Currently I'm working at [Yandex](https://yandex.com/company) (Since 2021), and previously I worked at [VKontakte](https://vk.com/about) for 5 years
-- 🦾 I'm pretty good at `Go`, `Systems design`, and specialize in `Backend development`
-- 🔨 I know bunch about `React` and `PHP`, and tried every possible programming language
+- ⭐️ Currently I'm working at [Yandex](https://yandex.com/company) (Since 2021), and previously I worked at [VKontakte](https://vk.com/about) for 5 years
+- 🦾 I specialize in `Go`, `Backend development` and `Systems design` 
+- 🤖 I know bunch about `React` and `PHP`, and tried every possible programming language
 - ❤️ I love English, Leetcoding, Therapy, and my family
 - 📫 Contact me via [Telegram](https://t.me/nshkaruba)
 
