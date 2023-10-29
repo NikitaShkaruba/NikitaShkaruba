@@ -5,7 +5,7 @@ Useful facts:
 - 🏔 Currently I work at [Yandex Cloud](https://cloud.yandex.com/en) (Since 2021), and previously I've been working at [VKontakte](https://vk.com/about) for 5 years
 - 🤖 I solve a wide range of computer science problems and this is my [CV](https://docs.google.com/document/d/e/2PACX-1vQgHJZ82Rqirs2WDd3Eki49ysSzbLeQipnH72hIYrrMfNVODNeF98AHm5caJx0INWm7hGXSTl5zLQrp/pub)
 - 🛠️ I know a bunch about `Systems Design`, `Go`, `Typescript`, `React`, and tried lots of different technologies
-- 🦾 I'm a master of algorithms and data structures, checkout [my leetcode profile](https://leetcode.com/leetcode_kitty/) and [my DSA repository](https://github.com/NikitaShkaruba/data_structures_and_algorithms) as proof
+- 🦾 I'm a competitive programming, checkout my [leetcode](https://leetcode.com/leetcode_kitty/), [codeforces](https://codeforces.com/profile/nikita_shkaruba) profiles and [my DS&A repository](https://github.com/NikitaShkaruba/data_structures_and_algorithms)
 - 📫 Contact me via [Telegram](https://t.me/nshkaruba) or [Gmail](sh.sigmaone@gmail.com)
 
 Fun facts:
