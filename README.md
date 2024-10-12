@@ -2,9 +2,9 @@
 
 Useful facts:
 
-- ☁️ Currently I work at [Yandex](https://yandex.com/dev/) as a team leader and founder of [Yandex WebSQL](https://yandex.cloud/en/services/websql), also I worked at [VKontakte](https://vk.com/about) for 5 years
+- 🚀 Currently I work at [Yandex](https://yandex.com/dev/) as a team leader and founder of [Yandex WebSQL](https://yandex.cloud/en/services/websql), also I worked at [VKontakte](https://vk.com/about) for 5 years
+ 👾 I also love systems design, backend, frontend, devops, and this is my [CV](/dev/null)!
 - 🦾 I'm a competitive programmer, checkout my [leetcode](https://leetcode.com/nikita_shkaruba), [codeforces](https://codeforces.com/profile/nikita_shkaruba) profiles and [my DS&A repository](https://github.com/NikitaShkaruba/data_structures_and_algorithms)
-- 👾 I love systems design, and always stay at the edge of technologies!
 - 📫 Contact me via [Telegram](https://t.me/nshkaruba) or [Gmail](sh.sigmaone@gmail.com)
 
 Fun facts:
